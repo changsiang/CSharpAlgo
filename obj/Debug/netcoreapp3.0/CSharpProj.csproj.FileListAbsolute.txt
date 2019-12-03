@@ -1,0 +1,11 @@
+C:\Users\Chang Siang\Desktop\CSharpProj\bin\Debug\netcoreapp3.0\CSharpProj.exe
+C:\Users\Chang Siang\Desktop\CSharpProj\bin\Debug\netcoreapp3.0\CSharpProj.deps.json
+C:\Users\Chang Siang\Desktop\CSharpProj\bin\Debug\netcoreapp3.0\CSharpProj.runtimeconfig.json
+C:\Users\Chang Siang\Desktop\CSharpProj\bin\Debug\netcoreapp3.0\CSharpProj.runtimeconfig.dev.json
+C:\Users\Chang Siang\Desktop\CSharpProj\bin\Debug\netcoreapp3.0\CSharpProj.dll
+C:\Users\Chang Siang\Desktop\CSharpProj\bin\Debug\netcoreapp3.0\CSharpProj.pdb
+C:\Users\Chang Siang\Desktop\CSharpProj\obj\Debug\netcoreapp3.0\CSharpProj.csprojAssemblyReference.cache
+C:\Users\Chang Siang\Desktop\CSharpProj\obj\Debug\netcoreapp3.0\CSharpProj.AssemblyInfoInputs.cache
+C:\Users\Chang Siang\Desktop\CSharpProj\obj\Debug\netcoreapp3.0\CSharpProj.AssemblyInfo.cs
+C:\Users\Chang Siang\Desktop\CSharpProj\obj\Debug\netcoreapp3.0\CSharpProj.dll
+C:\Users\Chang Siang\Desktop\CSharpProj\obj\Debug\netcoreapp3.0\CSharpProj.pdb
